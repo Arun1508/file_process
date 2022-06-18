@@ -57,6 +57,7 @@ async def load_config_file():
             return json.load(cj)
     
 async def main():
+    print('main')
     try:
         config_path = await load_config_file()
         await read_path(config_path)
