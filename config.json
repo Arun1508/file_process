@@ -1,5 +1,12 @@
 {
     "input_xml_file_path": "/Users/santosh/Desktop/projects/python/ashwin/file_process/xml_files/",
     "output_json_file_path": "/Users/santosh/Desktop/projects/python/ashwin/file_process/xml_files/new_json/",
-    "old_xml_path": "/Users/santosh/Desktop/projects/python/ashwin/file_process/xml_files/old_xml/"
+    "old_xml_path": "/Users/santosh/Desktop/projects/python/ashwin/file_process/xml_files/old_xml/",
+    "xml_archive_path":"/Users/santosh/Desktop/projects/python/ashwin/file_process/xml_files/xml_archives/",
+    "log_file_path": "/Users/santosh/Desktop/projects/python/ashwin/file_process/xml_files/log_file/",
+    "log_message":{
+        "from":"from",
+        "to": "to",
+        "archive": "archive"
+    }
 }
